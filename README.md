@@ -17,6 +17,7 @@ Face Detection- DeepFace, TensorFlow.js, Keras, OpenCV
 Camera Handling- HTML5 Video API + Haar Cascade Classifier
 
 Connect with Me
+
 -GitHub: https://github.com/AlluriAkshitha
 
 -Linkedin: linkedin.com/in/akshithaalluri1788
