@@ -20,5 +20,6 @@ Connect with Me
 
 -GitHub: https://github.com/AlluriAkshitha
 
--Linkedin: linkedin.com/in/akshithaalluri1788
+-Linkedin: https://linkedin.com/in/akshithaalluri1788
 
+-Email: alluriakshitha1788@gmail.com
